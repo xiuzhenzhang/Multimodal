@@ -1,0 +1,9 @@
+openai>=1.40.0
+transformers>=4.46.0,<5
+tokenizers>=0.20.0,<0.22
+huggingface-hub>=0.26.0,<1.0
+accelerate>=0.34.0,<2
+sentencepiece>=0.2.0
+safetensors>=0.4.0
+pillow>=10.0.0
+scikit-learn>=1.4.0

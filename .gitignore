@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Secrets and local configuration
+.env
+*.env
+*.pem
+*.key
+credentials.json
+.secrets/
+
+# Models, caches, datasets, and generated artifacts
+.cache/
+.hf_model_suite_cache/
+.hf_model_suite_code/
+.tmp/
+models/
+data/
+datasets/
+fake_news_dataset/
+results/
+outputs/
+logs/
+*.log
+*.jsonl
+*.tar
+*.tar.gz
+*.zip
+*.pt
+*.pth
+*.safetensors
+
+# Generated media
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
