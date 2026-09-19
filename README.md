@@ -37,11 +37,12 @@ The release contains misinformation-style research material and generation compo
 ## Citation
 
 ```bibtex
-@misc{yang2026multimodalfakenews,
+@inproceedings{yang2026multimodalfakenews,
   title  = {Can Multimodal Large Language Models Generate and Detect
             Multimodal Social Media Fake News?},
   author = {Yang, Jiyao and Liu, Yang and Qin, Zhenyue and
             Chen, Qingyu and Zhang, Xiuzhen},
+ book title = {Proceeedings of EMNLP2026},
   year   = {2026}
 }
 ```
