@@ -8,8 +8,8 @@ Jiyao Yang · Yang Liu · Zhenyue Qin · Qingyu Chen · Xiuzhen Zhang
 
 <br>
 
-<a href="https://xiuzhenzhang.github.io/Multimodal/"><img alt="Project Website" src="https://img.shields.io/badge/PROJECT-WEBSITE-111918?style=for-the-badge"></a>
-<a href="https://xiuzhenzhang.github.io/Multimodal/assets/mmfn-paper.pdf"><img alt="Read the Paper" src="https://img.shields.io/badge/READ-THE_PAPER-D94A37?style=for-the-badge"></a>
+<a href="https://khat865.github.io/MMFN/"><img alt="Project Website" src="https://img.shields.io/badge/PROJECT-WEBSITE-111918?style=for-the-badge"></a>
+<a href="https://khat865.github.io/MMFN/assets/mmfn-paper.pdf"><img alt="Read the Paper" src="https://img.shields.io/badge/READ-THE_PAPER-D94A37?style=for-the-badge"></a>
 <a href="https://huggingface.co/datasets/Khat865/Mutilmodel_fake_news"><img alt="Request Data and Code Access" src="https://img.shields.io/badge/REQUEST-DATA_%26_CODE-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=111918&amp;labelColor=111918"></a>
 
 </div>
@@ -50,6 +50,6 @@ The release contains misinformation-style research material and generation compo
 
 <div align="center">
 
-[Project website](https://xiuzhenzhang.github.io/Multimodal/) · [Paper](https://xiuzhenzhang.github.io/Multimodal/assets/mmfn-paper.pdf) · [Data & code access](https://huggingface.co/datasets/Khat865/Mutilmodel_fake_news)
+[Project website](https://khat865.github.io/MMFN/) · [Paper](https://khat865.github.io/MMFN/assets/mmfn-paper.pdf) · [Data & code access](https://huggingface.co/datasets/Khat865/Mutilmodel_fake_news)
 
 </div>
