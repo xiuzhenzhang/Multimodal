@@ -29,7 +29,7 @@ This repository is the permanent entry point referenced by the paper. Use the li
 * **No Redistribution:** You may not copy, share, distribute, mirror, host, or transfer the code or data, any derived unencrypted subsets, or the access password to any third party, public repository, or external platform.
 * **Access Control:** Other researchers within your institution or collaboration group must obtain their own password by submitting an official request through our designated access form.
   
-* 📝 Fill out the [Code and data Access Request Form](https://forms.cloud.microsoft/r/LUpxR40Nej). Once your request is reviewed and approved, information for accessing the dataset will be sent to your institutional email address.
+📝 Fill out the [Code and data Access Request Form](https://forms.cloud.microsoft/r/LUpxR40Nej). Once your request is reviewed and approved, information for accessing will be sent to your institutional email address.
 
 
 ## Access
