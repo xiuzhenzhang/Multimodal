@@ -22,8 +22,17 @@ MMFN is a paired benchmark and multi-agent construction framework for studying r
 
 This repository is the permanent entry point referenced by the paper. Use the links above to visit the full project website, read the manuscript, or request access to the research release.
 
-## Access
+## Request access  to code and data
 
+* **Non-Commercial Research Only:** This dataset is made available strictly for academic, educational, and scientific research purposes. 
+* **Prohibited Commercial Use:** Any commercial use, including but not limited to product development, commercial services, internal business operations, or monetization through third parties, is strictly prohibited.
+* **No Redistribution:** You may not copy, share, distribute, mirror, host, or transfer the dataset, any derived unencrypted subsets, or the access password to any third party, public repository, or external platform.
+* **Access Control:** Other researchers within your institution or collaboration group must obtain their own password by submitting an official request through our designated access form.
+* 
+* 📝 Fill out the [Code and data Access Request Form](https://forms.cloud.microsoft/r/LUpxR40Nej). Once your request is reviewed and approved, information for accessing the dataset will be sent to your institutional email address.
+
+
+## Access
 The benchmark data, construction code, evaluation code, and prompts are distributed through a manually reviewed Hugging Face gated repository for legitimate research use.
 
 1. Sign in to your Hugging Face account.
