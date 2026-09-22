@@ -24,6 +24,8 @@ This repository is the permanent entry point referenced by the paper. The [singl
 
 ## Request access to code and data
 
+> **Temporary access notice:** You may submit an access request. Approvals are temporarily paused while legacy repository content is removed. Existing requests remain in the review queue.
+
 * **Non-Commercial Research Only:** This resource is made available strictly for non-commercial academic, educational, and scientific research purposes.
 * **Prohibited Commercial Use:** Any commercial use, including but not limited to product development, commercial services, internal business operations, or monetization through third parties, is strictly prohibited.
 * **No Redistribution:** You may not share, distribute, mirror, publicly host, or transfer the code or data, derived unencrypted subsets, credentials, or private download links to third parties, public repositories, or external platforms. Local copies needed for the approved research remain subject to the research license.
