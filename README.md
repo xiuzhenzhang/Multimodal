@@ -2,7 +2,7 @@
 
 # Can Multimodal Large Language Models Generate and Detect Multimodal Social Media Fake News?
 
-**MMFN · Official project landing page**
+**MMFN · Paper-linked project entry point**
 
 Jiyao Yang · Yang Liu · Zhenyue Qin · Qingyu Chen · Xiuzhen Zhang
 
@@ -20,28 +20,33 @@ Jiyao Yang · Yang Liu · Zhenyue Qin · Qingyu Chen · Xiuzhen Zhang
 
 MMFN is a paired benchmark and multi-agent construction framework for studying realistic multimodal social-media misinformation and evaluating whether multimodal large language models can detect it.
 
-This repository is the permanent entry point referenced by the paper. Use the links above to visit the full project website, read the manuscript, or request access to the research release.
+This repository is the permanent entry point referenced by the paper. The [single project website](https://khat865.github.io/MMFN/) brings together the paper, complete access conditions, and application instructions. This repository does not host another GitHub Pages website.
 
-## Request access  to code and data
+## Request access to code and data
 
-* **Non-Commercial Research Only:** This resource is made available strictly for academic, educational, and scientific research purposes. 
+* **Non-Commercial Research Only:** This resource is made available strictly for non-commercial academic, educational, and scientific research purposes.
 * **Prohibited Commercial Use:** Any commercial use, including but not limited to product development, commercial services, internal business operations, or monetization through third parties, is strictly prohibited.
-* **No Redistribution:** You may not copy, share, distribute, mirror, host, or transfer the code or data, any derived unencrypted subsets, or the access password to any third party, public repository, or external platform.
-* **Access Control:** Other researchers within your institution or collaboration group must obtain their own password by submitting an official request through our designated access form.
-  
-📝 Fill out the [Code and data Access Request Form](https://forms.cloud.microsoft/r/LUpxR40Nej). Once your request is reviewed and approved, information for accessing will be sent to your institutional email address.
+* **No Redistribution:** You may not share, distribute, mirror, publicly host, or transfer the code or data, derived unencrypted subsets, credentials, or private download links to third parties, public repositories, or external platforms. Local copies needed for the approved research remain subject to the research license.
+* **Access Control:** Each researcher, including members of the same institution or collaboration group, must request approval for their own Hugging Face account. Shared passwords are not used.
+
+Read the [complete access conditions](https://khat865.github.io/MMFN/#access), then submit the [Hugging Face access request](https://huggingface.co/datasets/Khat865/Mutilmodel_fake_news). This replaces the previous separate application form.
 
 
 ## Access
-The benchmark data, construction code, evaluation code, and prompts are distributed through a manually reviewed Hugging Face gated repository for legitimate research use.
+Synthetic research data, construction code, evaluation code, and prompts are distributed together through a manually reviewed Hugging Face gated repository. Original news articles, true-post texts, original source images, and source-bearing construction logs are not redistributed.
 
-1. Sign in to your Hugging Face account.
-2. Open the [MMFN gated repository](https://huggingface.co/datasets/Khat865/Mutilmodel_fake_news).
-3. Accept the terms and submit an access request.
+1. Sign in to your own Hugging Face account and open the [MMFN gated repository](https://huggingface.co/datasets/Khat865/Mutilmodel_fake_news).
+2. Provide your full name, university or research institution, institutional email, public institutional profile or ORCID URL, and a brief intended research use.
+3. Accept the conditions and submit. Identity, affiliation, and purpose are checked manually; the reviewer may contact your institutional email for clarification.
+4. After approval, use the same account to download the released data and code. Submitting a request does not itself grant access.
+
+Application and security questions: `xiuzhen.zhang@rmit.edu.au`. Email notifications may be delayed; the request remains recorded in the Hugging Face review queue.
 
 ## Responsible use
 
 The release contains misinformation-style research material and generation components. Do not publish generated claims as real news, impersonate real outlets or people, or use the resources for targeted deception.
+
+The synthetic-only release cannot independently reproduce the paper's full true/fake benchmark. Exact replication requires the corresponding original inputs and evaluation protocol; source URLs cannot guarantee reconstruction of withheld true-post texts. See the project page for the release scope and reproducibility limitations.
 
 ## Citation
 
@@ -51,7 +56,7 @@ The release contains misinformation-style research material and generation compo
             Multimodal Social Media Fake News?},
   author = {Yang, Jiyao and Liu, Yang and Qin, Zhenyue and
             Chen, Qingyu and Zhang, Xiuzhen},
- book title = {Proceeedings of EMNLP2026},
+  booktitle = {Proceedings of EMNLP 2026},
   year   = {2026}
 }
 ```
