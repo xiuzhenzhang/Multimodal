@@ -31,7 +31,7 @@ This repository is the permanent entry point referenced by the paper. The [singl
 * **No Redistribution:** You may not share, distribute, mirror, publicly host, or transfer the code or data, derived unencrypted subsets, credentials, or private download links to third parties, public repositories, or external platforms. Local copies needed for the approved research remain subject to the research license.
 * **Access Control:** Each researcher, including members of the same institution or collaboration group, must request approval for their own Hugging Face account. Shared passwords are not used.
 
-Read the [complete access conditions](https://khat865.github.io/MMFN/#access), then submit the [Hugging Face access request](https://huggingface.co/datasets/Khat865/Mutilmodel_fake_news)(Hugging Face account required).
+Read the [complete access conditions](https://khat865.github.io/MMFN/#access), then submit the [Hugging Face access request](https://huggingface.co/datasets/Khat865/Mutilmodel_fake_news) (Hugging Face account required).
 
 
 ## Access
@@ -58,7 +58,7 @@ The synthetic-only release cannot independently reproduce the paper's full true/
             Multimodal Social Media Fake News?},
   author = {Yang, Jiyao and Liu, Yang and Qin, Zhenyue and
             Chen, Qingyu and Zhang, Xiuzhen},
-  booktitle = {Proceedings of EMNLP 2026},
+  booktitle = {Findings of EMNLP 2026},
   year   = {2026}
 }
 ```
