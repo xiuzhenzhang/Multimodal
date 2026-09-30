@@ -9,7 +9,7 @@ Jiyao Yang · Yang Liu · Zhenyue Qin · Qingyu Chen · Xiuzhen Zhang
 <br>
 
 <a href="https://khat865.github.io/MMFN/"><img alt="Project Website" src="https://img.shields.io/badge/PROJECT-WEBSITE-111918?style=for-the-badge"></a>
-<a href="https://khat865.github.io/MMFN/assets/mmfn-paper.pdf"><img alt="Read the Paper" src="https://img.shields.io/badge/READ-THE_PAPER-D94A37?style=for-the-badge"></a>
+<a href="https://arxiv.org/abs/2609.35809"><img alt="Read the Paper on arXiv" src="https://img.shields.io/badge/arXiv-2609.35809-D94A37?style=for-the-badge"></a>
 <a href="https://huggingface.co/datasets/Khat865/Mutilmodel_fake_news"><img alt="Request Data and Code Access" src="https://img.shields.io/badge/REQUEST-DATA_%26_CODE-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=111918&amp;labelColor=111918"></a>
 
 </div>
@@ -58,8 +58,12 @@ The synthetic-only release cannot independently reproduce the paper's full true/
             Multimodal Social Media Fake News?},
   author = {Yang, Jiyao and Liu, Yang and Qin, Zhenyue and
             Chen, Qingyu and Zhang, Xiuzhen},
-  booktitle = {Findings of EMNLP 2026},
-  year   = {2026}
+  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2026},
+  year   = {2026},
+  eprint = {2609.35809},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CL},
+  url = {https://arxiv.org/abs/2609.35809}
 }
 ```
 
@@ -67,6 +71,6 @@ The synthetic-only release cannot independently reproduce the paper's full true/
 
 <div align="center">
 
-[Project website](https://khat865.github.io/MMFN/) · [Paper](https://khat865.github.io/MMFN/assets/mmfn-paper.pdf) · [Data & code access](https://huggingface.co/datasets/Khat865/Mutilmodel_fake_news)
+[Project website](https://khat865.github.io/MMFN/) · [Paper on arXiv](https://arxiv.org/abs/2609.35809) · [Data & code access](https://huggingface.co/datasets/Khat865/Mutilmodel_fake_news)
 
 </div>
